@@ -1,10 +1,13 @@
 ---
 manufacturer: 3Com
-model: HP1910 24 port
-slug: 3com-hp1910-24-port
+model: Baseline Switch 2928-SFP Plus
+slug: 3com-baseline-switch-2928-sfp-plus
 part_number: 3CRBSG2893
 u_height: 1
 is_full_depth: false
+console-ports:
+  - name: console
+    type: rj-45
 power-ports:
   - name: PS1
     type: iec-60320-c14
