@@ -5,6 +5,9 @@ slug: hpe-hp1920-48g
 part_number: JG927A
 u_height: 1
 is_full_depth: false
+console-ports:
+  - name: console
+    type: rj-45
 power-ports:
   - name: PS1
     type: iec-60320-c14
