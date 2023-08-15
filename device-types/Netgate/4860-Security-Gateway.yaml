@@ -1,0 +1,28 @@
+---
+manufacturer: Netgate
+model: 4860 Security Gateway
+slug: netgate-4860-security-gateway
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: console
+    type: usb-mini-a
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 360
+    description: Internal AC/DC 100-240V, 50-60 Hz, 12V
+interfaces:
+  - name: igb0
+    type: 1000base-t
+  - name: igb1
+    type: 1000base-t
+  - name: igb2
+    type: 1000base-t
+  - name: igb3
+    type: 1000base-t
+  - name: igb4
+    type: 1000base-t
+  - name: igb5
+    type: 1000base-t
+
